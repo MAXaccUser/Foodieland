@@ -58,10 +58,12 @@
 .nav-icons2 i {
     margin: 0 10px;
     font-size: xx-large;
+    color: #000;
 }
 .nav-icons i {
     margin: 0 10px;
     font-size: xx-large;
+    color: #000;
 }
 .home {
     border-bottom: 3px solid red;
